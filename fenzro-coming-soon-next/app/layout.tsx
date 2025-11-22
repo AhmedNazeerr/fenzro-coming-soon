@@ -10,7 +10,6 @@ const manrope = Manrope({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Fenzro - AI-native accounting platform",
   description: "Automate bookkeeping, reconciliations, and reporting with Fenzro.",
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
